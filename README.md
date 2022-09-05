@@ -12,3 +12,6 @@ users should be able to:
 - Switch the large product image by clicking on the small thumbnail images
 - Add items to the cart
 - View the cart and remove items from it
+
+Live Demo =>https://baraaosama.github.io/E-commerce-product-page-Frontend-Mentor-Challenges/
+
